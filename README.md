@@ -48,8 +48,8 @@
 ### 📊 NEURAL ANALYTICS (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenux-ai&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00d4ff&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenux-ai&layout=compact&theme=tokyonight&bg_color=00000000&title_color=00d4ff&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thenuxofc&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00d4ff&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenuxofc&layout=compact&theme=tokyonight&bg_color=00000000&title_color=00d4ff&text_color=ffffff&icon_color=A020F0&border_color=A020F0&hide_border=false" width="45%" />
 </p>
 
 <p align="center">
@@ -58,15 +58,15 @@
 
 #### 🐍 NEURAL GROWTH (Contribution Snake)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenux-ai/thenux-ai/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/thenux-ai/thenux-ai/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/thenuxofc/thenux-ai/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 ### 📡 CONNECT WITH THE GRID
 <p align="center">
-<a href="https://github.com/thenux-ai"><img src="https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=00d4ff"></a>
+<a href="https://github.com/thenuxofc"><img src="https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=00d4ff"></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-A020F0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
