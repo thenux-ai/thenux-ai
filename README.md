@@ -59,7 +59,7 @@
 #### 🐍 NEURAL GROWTH (Contribution Snake)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/thenuxofc/thenux-ai/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/thenuxofc/thenuxofc/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -67,7 +67,7 @@
 ### 📡 CONNECT WITH THE GRID
 <p align="center">
 <a href="https://github.com/thenuxofc"><img src="https://img.shields.io/badge/GITHUB-BLACK?style=for-the-badge&logo=github&logoColor=00d4ff"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-A020F0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:your-support@thenux.store"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-A020F0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
